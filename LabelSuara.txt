@@ -1,0 +1,34 @@
+label data suara
+Legend:
+1. Bayati
+2. Shoba
+3. Nahawand
+4. Sikah
+5. Ros
+6. Hijaz
+7. Jiharkah
+anotator b:
+1. ros
+2. Bayati
+
+anotator 1:
+1. Bayati 1
+2. Shoba 2
+3. Nahawand 3
+4. sika 4
+5. Hijaz 6
+6. Sika 7
+7. ros 5
+
+anotator 2:
+1. ros 5
+2. bayati 1
+
+anotator 3:
+1. Bayati 1
+2. Nahawand 3
+3. Shoba 2
+4. Jiharkah 7
+5. Sikah 4
+6. Hijaz 6
+7. Ros 5
